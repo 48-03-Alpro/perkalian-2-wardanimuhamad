@@ -8,7 +8,7 @@ public class Perulangan{
         int hasilAkhir = 0;
         angka  = 2;
         // Start pengerjaan soal
-        hasilAkhir = 4;
+        hasilAkhir = 4*angka;
 
         // End Pengerjaan soal
 
