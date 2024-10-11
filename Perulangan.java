@@ -6,7 +6,7 @@ public class Perulangan{
         Scanner input = new Scanner(System.in);
         int angka;
         int hasilAkhir = 0;
-        angka  = input.nextInt();
+        angka  = 2;
         // Start pengerjaan soal
         hasilAkhir = 4;
 
