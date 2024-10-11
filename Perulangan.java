@@ -8,7 +8,7 @@ public class Perulangan{
         int hasilAkhir = 0;
         angka  = input.nextInt();
         // Start pengerjaan soal
-
+        hasilAkhir = angka+2;
 
         // End Pengerjaan soal
 
